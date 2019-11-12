@@ -6,7 +6,7 @@ summary: Your website is a 24/7 sales and marketing machine. At least it should 
 tags: ['website', 'business', 'sales', 'marketing']
 ---
 
-<!-- ![background](./images/blog_bg_4.jpg) -->
+![background](./images/do-you-need-to-update-your-website.jpg)
 
 When is the last time you updated your website?
 
