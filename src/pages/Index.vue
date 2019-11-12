@@ -84,7 +84,7 @@
           <p class="mb-12">If you'd like to work on a project together, discuss something I've written about, or just want to say hi, feel free to reach out with the form below.</p>
 
           <div class="text-lg sm:text-lg mb-16">
-            <form action="#" class="mb-12" netlify>
+            <form action="#" class="mb-12" data-netlify="true" name="contact">
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                       <label class="block mb-2 text-copy-primary" for="name">
@@ -127,7 +127,7 @@
         <div class="w-4/5 mx-auto mb-8">
           <p class="mb-8 text-lg sm:text-xl">I write about business, web development, and self-improvement.</p>
 
-          <form action="https://gumroad.com/follow_from_embed_form" method="post" netlify>
+          <form action="https://gumroad.com/follow_from_embed_form" method="post"  data-netlify="true" name="newsletter">
             <div class="flex flex-col sm:flex-row">
               <input name="seller_id" type="hidden" value="976184935657">
               <input type="email" name="email" placeholder="Your email address" class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-green-700 z-10" required>
