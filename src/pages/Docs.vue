@@ -1,4 +1,4 @@
-<!--<template>
+<template>
   <Layout>
     <div class="container-inner mx-auto py-16">
       <div v-for="doc in $page.docs.edges" :key="doc.id" class="post border-gray-400 border-b mb-12">
@@ -11,7 +11,7 @@
         <div class="mb-8">
           <g-link :to="doc.node.path" class="font-bold uppercase">Read More</g-link>
         </div>
-      </div> <!-- end post
+      </div> <!-- end post -->
 
     </div>
   </Layout>
@@ -40,4 +40,3 @@ export default {
 }
 </script>
 
--->
