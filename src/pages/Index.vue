@@ -47,11 +47,11 @@
           <li class="checkmark mb-6">
             <div>Project Four</div>
             <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
-          </li> end projects
+          </li>
 
         </ul>
       </div>
-    </div>  -->
+    </div> <!-- end projects -->
 
     <div class="overflow-x-hidden border-gray-200 border-b">
       <div class="get-to-know-me container-inner mx-auto text-xl pb-16 relative">
