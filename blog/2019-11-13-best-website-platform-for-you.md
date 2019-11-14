@@ -6,7 +6,7 @@ summary: Are you deciding on a new platform to host your website, or your not ha
 tags: ['website', 'business', 'sales', 'marketing']
 ---
 
-![background](./images/best-website-platform-for-you/best-platformbest-website-platform-for-you-background.jpg)
+![background](./images/best-website-platform-for-you/best-website-platform-for-you-background.jpg)
 
 What is the best platform to build and host your website?
 
@@ -21,7 +21,7 @@ These are my top recommendations for web platforms based on _your_ capabilities:
 3. [Bloggi](https://bloggi.co/ "Bloggi's Homepage") - if you just need a blog
 
 
-![background](./images/best-website-platform-for-you/best-platformbest-website-platform-for-you-webflow.jpg)
+![background](./images/best-website-platform-for-you/best-website-platform-for-you-webflow.jpg)
 ## Webflow - The best all-around website builder and host with no coding required
 
 Let's put it this way. I'm a web developer by profession, and I still build some client's websites on [Webflow](https://www.webflow.com  "Webflow's Homepage").
@@ -40,7 +40,7 @@ You can host your site directly through their dashboard, receive form submission
 
 If you're on Wordpress, Squarespace, Wix or one of those other builders, you owe it to yourself to check out Webflow.
 
-![background](./images/best-website-platform-for-you/best-platformbest-website-platform-for-you-carrd.jpg)
+![background](./images/best-website-platform-for-you/best-website-platform-for-you-carrd.jpg)
 ## Carrd - Simple, responsive, inexpensive web pages for pretty much anything
 
 If you're not looking for a full-blown site, or don't want to spend a lot of time designing, [Carrd](https://carrd.co/ "Carrd's Homepage") is a great choice.
@@ -53,7 +53,7 @@ Pick a template, customize it, add your content, and get it live.
 
 It really is that simple.
 
-![background](./images/best-website-platform-for-you/best-platformbest-website-platform-for-you-bloggi.jpg)
+![background](./images/best-website-platform-for-you/best-website-platform-for-you-bloggi.jpg)
 ## Bloggi - A simple, beautiful, minimal blog for a low price with nothing you don't need
 
 I discovered [Bloggi](https://bloggi.co/ "Bloggi's Homepage") recently, and I'm incredibly impressed with it.
