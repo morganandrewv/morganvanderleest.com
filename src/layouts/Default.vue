@@ -38,7 +38,7 @@
           </li> -->
           <li>
             <!-- <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link> -->
-            <a to="/blog" class="text-copy-primary hover:text-gray-600">Blog</a>
+            <a href="/blog" class="text-copy-primary hover:text-gray-600">Blog</a>
           </li>
         </ul>
       </nav>
