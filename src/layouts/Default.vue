@@ -37,8 +37,7 @@
             <g-link to="/docs/" class="text-copy-primary hover:text-gray-600">Docs</g-link>
           </li> -->
           <li>
-            <!-- <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link> -->
-            <a to="/blog" class="text-copy-primary hover:text-gray-600">Blog</a>
+            <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link>
           </li>
         </ul>
       </nav>
